@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Voltron",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblogs-images.forbes.com%2Folliebarder%2Ffiles%2F2016%2F07%2Fvoltron_soc_1-1200x938.jpg&f=1&nofb=1",
+      "likes": 3,
+      "id": 9
     }
   ]
 }
